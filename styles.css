@@ -49,14 +49,14 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #b30000;
+  color: #dcb7b7;
   font-weight: bold;
 }
 
 /* Sections */
 section {
   padding: 50px 0;
-  background: #dc2121;
+  background: #ffffff;
   margin-bottom: 20px;
 }
 
